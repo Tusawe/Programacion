@@ -1,0 +1,7 @@
+*.class
+*/*.class
+*doc*
+*/doc*
+*doc/*
+*/doc/*
+
